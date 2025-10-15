@@ -9,8 +9,9 @@
 [![My Skills](https://skillicons.dev/icons?i=react,ts,python,latex)](https://skillicons.dev)
 
 I am pragmatic person who seeks efficiency in simple tasks, as well as in complex projects. I am open to collaboration and any projects that may come up to your mind. 
+<hr>
 <a href="https://www.linkedin.com/in/tymur-soroka/">
-  <img src="tsONlinkedin.png" />
+  <img src="tsONlinkedin.png" style="height:35px; width:auto;"/>
 </a>
 
 Languages: English (fluent), German (A2), Ukrainian (native - fluent), Russian (bilingual - fluent)
