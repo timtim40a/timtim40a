@@ -1,10 +1,13 @@
 ## Hi there, I am Tymur 👋
 
 ### *Core skills:*
-- JavaScript/TypeScript, HTML, CSS, React, Zustand, Django
+- JavaScript/TypeScript, React, React Hooks, Zustand State Control, Next.js, Node.js, Express, PostgreSQL, MySQL
 ### *Additional Skills:*
-- 8 years of experience in Python programming, Lua Scripting, Git Bash, Java
-- LaTeX & Markdown, Documentation writing, Tutorial writing
+- 8 years of experience in Python programming, Django, Lua Scripting, Git Bash, Java
+- YAML and API documentation writing, Tutorial writing
+- LaTeX & Markdown, Scientific documentation writing
+- Also a Neural Networks and LLMs enjoyer.
+
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,python,latex)](https://skillicons.dev)
 
